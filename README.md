@@ -19,7 +19,7 @@ SQL Queries: Structured SQL queries are used to create segments and generate ins
 - It stands for Recency, Frequency, and Monetary which are the three metrics that describe the customers.
 - It is an indexing technique that uses past purchase behavior to segment customers.
 
-After Customer Segmentation and Products Grouping using SQL, We will be having different segments of customers and groups of sold together products. So our aim is to bring back Customers and increase sales of brought together Products. I will be providing general business solutions for retail sales along with our Vehicle Product Sales in data.
+After Customer Segmentation and Products Grouping using SQL, We will be having different segments of customers and groups of sold together products. So our aim is to bring back Customers and increase sales of brought together Products. I will be providing general business solutions for retail sales along with our Product Sales in data.
 
 ## Insights & Recommendation:
 - Add Combo Offers to such products.
